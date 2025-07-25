@@ -4,6 +4,19 @@ This project leverages **Natural Language Processing (NLP)** techniques to extra
 
 ---
 
+## 🧑‍💻 Group Members
+
+| Name                     | Student ID   |
+|--------------------------|--------------|
+| Teo Kai Ning             | 22091346     |
+| Chua Sze Yan             | 23094470     |
+| Tan Jian Lin             | 17207012     |
+| Chong Zhan Hang          | 24077643     |
+| James Tang Tzeun Zhu     | 24063011     |
+| Areej Abdurahman Mohammad| 23119264     |
+
+---
+
 ## 📌 Project Summary
 
 We developed a **sentiment classification system** that categorizes customer reviews into **positive**, **neutral**, or **negative** sentiments. The system also extracts **key themes** using topic modeling to better understand customer concerns and feedback.
@@ -75,18 +88,5 @@ We used **Amazon product reviews**, which include detailed customer feedback. Th
 | Weighted Loss  | -        | 0.57            |
 
 Topic modeling results improved after fine-tuning, making the topics more coherent and diverse.
-
----
-
-## 🧑‍💻 Team Members
-
-| Name                     | Student ID   |
-|--------------------------|--------------|
-| Teo Kai Ning             | 22091346     |
-| Chua Sze Yan             | 23094470     |
-| Tan Jian Lin             | 17207012     |
-| Chong Zhan Hang          | 24077643     |
-| James Tang Tzeun Zhu     | 24063011     |
-| Areej Abdurahman Mohammad| 23119264     |
 
 ---
